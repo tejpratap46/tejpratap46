@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Tej Pratap Singh](https://me.tejpratapsingh.com/assets/images/cover-trimmed.png)
+![Tej Pratap Singh](https://link.tejpratapsingh.com/api/link/github.png)
