@@ -11,5 +11,6 @@
   <span>&nbsp;&nbsp;</span>
 </p>
 
-- :chart_with_upwards_trend: I’m currently working on [link-analytics](https://link.tejpratapsingh.com/)
+- :chart_with_upwards_trend: Working on [FirestoreOfflineFirstAndroid](https://github.com/tejpratap46/FirestoreOfflineFirstAndroid)
+- :slot_machine: Created [Link Analytics](https://link.tejpratapsingh.com)
 - <img src="https://link.tejpratapsingh.com/api/link/pixel/github.profile" alt="twitter" width="16" height="16"> Follow on [twitter](https://twitter.com/_tejpratap)
