@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><a href="https://me.tejpratapsingh.com" target="_blank" rel="noopener noreferrer"><img src="https://me.tejpratapsingh.com/assets/images/tps.svg" alt="tps logo"></a></p>
+<p align="center"><a href="https://me.tejpratapsingh.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tejpratap46/tejpratap46/master/tps.svg" alt="tps logo"></a></p>
 
 <p align="center">
   <a href="mailto:email@tejpratapsingh.com"><img width="30" src="https://twemoji.maxcdn.com/2/72x72/2709.png" alt="Email"></a>
